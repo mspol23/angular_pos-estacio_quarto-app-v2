@@ -1,0 +1,6 @@
+label,
+button {
+  margin: 5px;
+  width: 100px;
+  display: inline-block;
+}
